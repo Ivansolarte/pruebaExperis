@@ -21,5 +21,5 @@ Sigue los pasos a continuación para configurar y ejecutar el proyecto en tu má
 Primero, clona el repositorio de **PruebaExperis** usando el siguiente comando:
 
 ```bash
-git clone https://github.com/tu-usuario/PruebaExperis.git
+git clone https://github.com/Ivansolarte/pruebaExperis.git
 
