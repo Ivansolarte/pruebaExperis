@@ -1,6 +1,7 @@
 {
   "name": "pruebaexperis",
   "private": true,
+  "homepage": "https://ivansolarte.github.io/pruebaExperis/build",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
